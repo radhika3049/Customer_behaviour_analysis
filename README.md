@@ -221,10 +221,8 @@ Run the analysis notebook or Python script.
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
+<img width="1342" height="732" alt="image" src="https://github.com/user-attachments/assets/7558911c-96ff-4113-bd0b-9c8daa2d90e4" />
 
-```markdown
-![Dashboard Screenshot](images/dashboard.png)
 ```
 
 ---
